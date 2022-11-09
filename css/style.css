@@ -1,0 +1,87 @@
+body {
+  background-color: #112D32;
+}
+h1 {
+  text-align: center;
+  font-family: Times New Roman;
+  color:blue
+  font-size: 32px;
+
+}
+li {
+  list-style-type: none;
+  text-align: center;
+}
+section {
+  width: 100%;
+  margin: 0.3em auto;
+}
+#current-page {
+  text-decoration: underline overline;
+  color: #fff;
+}
+#face {
+  float: right;
+  margin-right: 4em;
+}
+#nav-bar {
+  background-color: black;
+  float: left;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+#nv-container {
+  list-style-type: none;
+}
+#nv-container ul {
+  margin: 0;
+  padding: 0;
+  float: left;
+  position: relative;
+  left: 50%;
+}
+#nv-container ul li {
+  float: left;
+  position: relative;
+  right: 50%;
+  display: block;
+  padding: 0 2em;
+}
+#nv-container ul li:hover {
+  background-color: #000;
+}
+#nv-container ul li a{
+  padding: 10px 20px;
+  color: #fff;
+  text-decoration: none;
+  display: block;
+}
+.p_center {
+  text-align: center;
+  font-family: Times New Roman;
+  font-size: 32px;
+  color:aqua;
+}
+img{
+  max-height: 250px;
+  max-width: 300px;
+  outline-color: white;
+  outline-width: 2px;
+  background-color: white;
+
+}
+.index {
+    text-align: center;
+}
+
+
+.anime {
+    list-style-type: none;  
+    text-align: center;
+}
+
+
+.resume {
+    text-align: center;
+}
