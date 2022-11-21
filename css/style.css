@@ -78,7 +78,15 @@ img{
   outline-color: white;
   outline-width: 2px;
   background-color: white;
-
+  
+.slider div{
+  background-color: #256D85;
+  margin: 0;
+}
+.slider{
+  border: none;
+}
+  
 }
 .index {
     text-align: center;
