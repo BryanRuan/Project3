@@ -3,8 +3,8 @@ body {
 }
 #map{
   position: absolute;
-  width: 60%;
-  height: calc(70vh);
+  width: 70%;
+  height: 70%;
   right: 20%;
   top: 14%;
   border: solid white 5px;
