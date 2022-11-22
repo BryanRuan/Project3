@@ -5,7 +5,7 @@
   });
   var marker = new google.maps.Marker({
     position: { lat: 41.84245809586425, lng: -87.64776056933353},
-    map: map,
+    map: map
   });
   var infowindow = new google.maps.InfoWindow({
     content:"This is the location is a park"
