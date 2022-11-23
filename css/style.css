@@ -103,13 +103,13 @@ img{
     outline-color: orange;
     outline-width: 5px;
     background-color: blue;
-  }
+  }}
   
 @media screen and (min-width: 800px){
-  body{
+  h1{
     text-align: left;
     font-family: Arial;
     color:yellow;
     font-size: 20px;
     background-color: black;
-  }
+  }}
