@@ -99,14 +99,19 @@ img{
     text-align: center;
 }
 @media only screen and (min-width: 800px){
-  body{
-     background-color: red;
+  image{
+    max-height: 150px;
+    max-width: 200px;
+    outline-color: orange;
+    outline-width: 5px;
+    background-color: blue;
   }
   
   @media only screen and (min-width: 800px){
   h1{
-     text-align: left;
-    font-family: Times New Roman;
+    text-align: left;
+    font-family: Georgia;
     color:yellow;
-    font-size: 32px;
+    font-size: 20px;
+    background-color: black;
   }
