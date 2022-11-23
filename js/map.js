@@ -8,7 +8,7 @@
     map: map
   });
   var infowindow = new google.maps.InfoWindow({
-    content:"This is the location is a park"
+    content:"This is the location is a park that is near where I live."
   });
   infowindow.open(map, marker);
   }
